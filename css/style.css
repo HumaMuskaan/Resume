@@ -1,0 +1,64 @@
+body {
+  background-color: #fcecdd;
+
+}
+.intro {
+  text-align: center;
+  padding-bottom: 3%;
+  padding-top: 4%
+}
+.content {
+  padding: 2% 4%;
+}
+.tb {
+  text-align: left;
+
+}
+.table {
+  text-align: left;
+}
+hr {
+color: pink ;
+border-style:solid;
+border-width: 0.5px;
+border-color: #536162;
+}
+h1 {
+color: #27296d;
+font-size: 3rem;
+}
+h3 {
+  color: #5e63b6;
+  font-size: 35px;
+}
+th {
+  color: #aa2ee6;
+}
+table {
+  text-align: center;
+}
+.a {
+  font-size: 20px;
+
+}
+.b {
+  font-size: 20px;
+}
+ li{
+  font-size: 18px;
+}
+td {
+  font-size: 18px;
+}
+@media (max-width:1024px) {
+  .a {
+    font-size: 28px;
+  }
+  li {
+    font-size:26px;
+  }
+td{
+  font-size: 26px;
+}
+
+}
